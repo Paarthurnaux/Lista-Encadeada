@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472695160 source:c:\users\marco\documents\lista_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+
